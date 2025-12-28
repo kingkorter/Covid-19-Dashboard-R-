@@ -1,0 +1,9 @@
+shiny
+shinythemes
+shinyWidgets
+tidyverse
+ggplot2
+data.table
+patchwork
+plotly
+purrr
