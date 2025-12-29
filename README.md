@@ -19,7 +19,7 @@ Demonstrates:
 - Includes plots: bar charts, density plots, boxplots, heatmaps
 
 ## Project Structure
-- `cov.R` – Full Shiny app code
+- `cov.r` – Full Shiny app code
 - `data/Covid Data.csv.zip` – Dataset
 - `.gitignore` – Files/folders to ignore
 - `requirements.txt` – R package dependencies
